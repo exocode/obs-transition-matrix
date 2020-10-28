@@ -57,7 +57,7 @@ Then follow these steps to build the plugin - **for each step return to your roo
 ### Install necessary dependencies
 ```
 brew install cmake mbedtls
-brew install https://gist.githubusercontent.com/DDRBoxman/b3956fab6073335a4bf151db0dcbd4ad/raw/ed1342a8a86793ea8c10d8b4d712a654da121ace/qt.rb`
+brew install https://gist.githubusercontent.com/DDRBoxman/b3956fab6073335a4bf151db0dcbd4ad/raw/ed1342a8a86793ea8c10d8b4d712a654da121ace/qt.rb
 brew pin qt
 ```
 
